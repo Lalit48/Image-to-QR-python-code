@@ -64,11 +64,14 @@ This Python project allows you to upload an image to **ImgBB**, generate a hoste
 
 ## Example Output
 
-- **Image URL:**  
-  `https://i.ibb.co/example.jpg`
+- **Image:**  
+  ![path_to_your_image](https://github.com/user-attachments/assets/dde98056-d15f-48be-9cf9-493897e2d1ef)
+
+
 
 - **Generated QR Code:**  
-  ![QR Code Example](image_qr_code_example.png)
+  ![image_qr_code](https://github.com/user-attachments/assets/d97dcf43-ae77-444f-896a-8c4ff4d04dd6)
+
 
 ---
 
